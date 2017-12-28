@@ -1,0 +1,7 @@
+packages/
+CSUploadFileToOneDriveAndShare/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+CSUploadFileToOneDriveAndShare/bin/Microsoft.Owin.Security.Cookies.xml
+CSUploadFileToOneDriveAndShare/bin/
+CSOneDriveAccess/obj/
+CSOneDriveAccess/bin/
+CSUploadFileToOneDriveAndShare/obj/
